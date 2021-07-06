@@ -26,7 +26,7 @@ b=1.0477028441
 
 Created an expontial function based on time: X(t)=26771.6929 x 1.0477^t
 
-**What is Statsmodels? **
+**What is Statsmodels?**
 
 The detail can be found here: https://www.statsmodels.org/stable/index.html
 
