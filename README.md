@@ -6,7 +6,7 @@ Thus, you need to build an agile forecasting model that can predict future based
 If the trend is linear, you can apply y=a*x+b. However, the trend is showing an exponential trend. You cannot apply y=a*x+b. 
 One way to do is to apply log function to change y=a*x+b into time function. 
 
-Sometimes, you can obtain ideas from someone else's. I got an idea after observing analysis Covid-19 Trend. 
+Sometimes, you can obtain ideas from someone else's. I got an idea after observing Covid-19 Trend analysis. 
 
 **3 major ideas to execute the analysis:** 
   1.Use log function to convert a linear model into an exponential model 
@@ -16,12 +16,17 @@ Sometimes, you can obtain ideas from someone else's. I got an idea after observi
 **How to use log function?**
 
 logX(t)=log(Xo)+log(b)t
+
 log(Xo)=10.1951
+
 Xo=e^10.1951 (getting the value of Xo)
+
 Xo=26,771.682908406
 
 log(b)=0.0466
+
 b=e^0.00466 (getting the value of b)
+
 b=1.0477028441 
 
 Created an expontial function based on time: X(t)=26771.6929 x 1.0477^t
