@@ -1,4 +1,4 @@
-#forecastingmodel
+#Forecasting Model Project
 
 When you are trying to predict future sales, you can use machine learning to predict it. However, Covid-19 has changed how customers spend. 
 Thus, you need to build an agile forecasting model that can predict future based on a current trend. It will be very hard to predict using historical data since the trend is not applicable to 2020 or 2021 trend. 
