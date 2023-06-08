@@ -36,6 +36,6 @@ Created an expontial function based on time: X(t)=26771.6929 x 1.0477^t
 The detail can be found here: https://www.statsmodels.org/stable/index.html
 
 Statsmodels is a Python module:
-  1. Provides different classes and funcitons for estimation of many different statiscal models
-  2. Conducts statiscal tests
-  3. Allows statsical data exploration 
+  1. Provides different classes and funcitons for estimation of many different statistical models
+  2. Conducts sstatistical tests
+  3. Allows statistical data exploration 
