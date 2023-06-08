@@ -37,5 +37,5 @@ The detail can be found here: https://www.statsmodels.org/stable/index.html
 
 Statsmodels is a Python module:
   1. Provides different classes and funcitons for estimation of many different statistical models
-  2. Conducts sstatistical tests
+  2. Conducts statistical tests
   3. Allows statistical data exploration 
