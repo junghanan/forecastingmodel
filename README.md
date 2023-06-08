@@ -9,8 +9,11 @@ One way to do is to apply log function to change y=a*x+b into time function.
 Sometimes, you can obtain ideas from someone else's. I got an idea after observing Covid-19 Trend analysis. 
 
 **3 major ideas to execute the analysis:** 
+  
   1.Use log function to convert a linear model into an exponential model 
+  
   2.Use Statsmodels to figure out coefficients of the exponential model
+  
   3.Use coefficients to calculate forecasts 
   
 **How to use log function?**
